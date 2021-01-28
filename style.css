@@ -1,0 +1,39 @@
+body.signin-body{
+    background-color: lightblue;
+}
+.container.signin-container{
+    margin-top: 8%;
+}
+.signin-card{
+    background-color: lightgray;
+    padding: 3px;
+    box-shadow: 5px 8px 5px rgba(0, 0, 0, 0.5);
+}
+img.signin-img{
+    /* padding:2px,0px,2px,0px; */
+    margin: auto;
+    display: block;
+} 
+.img-center{
+    margin: auto;
+}
+form.signin-form{
+    max-width: 250px;
+    margin: auto;
+}
+.signin-btn{
+    color: white;
+    background-color: tomato;
+    width: 100%;
+}
+.checklabel{
+    padding: 2rem;
+}
+a.create-new-account{
+    color: tomato;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin-top: 1.5rem;
+    margin-bottom:2rem;
+}

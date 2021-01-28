@@ -38,7 +38,4 @@ a.create-new-account{
     margin-bottom:2rem;
 }
 
-@media screen and (max-width:"1100px"){
-    form.signin-form{
-        padding:1.2rem;
-    }
+
